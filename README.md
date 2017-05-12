@@ -1,5 +1,4 @@
-# Yet Another Pretty JSON
-[![npm version](https://badge.fury.io/js/yap-json.svg)](https://badge.fury.io/js/yap-json)
+# Yet Another Pretty JSON [![npm version](https://badge.fury.io/js/yap-json.svg)](https://badge.fury.io/js/yap-json)
 
 > Pipe your `json` into `yap-json` to make it pretty
 
