@@ -1,0 +1,19 @@
+{
+  "name": "yap-json",
+  "version": "0.2.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "yap-json": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cesarferreira",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "get-stdin": "^5.0.1",
+    "json-colorz": "^0.2.7"
+  }
+}
