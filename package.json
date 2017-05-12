@@ -1,7 +1,7 @@
 {
   "name": "yap-json",
-  "version": "0.2.1",
-  "description": "Pipe your `json` in the terminal into `yap-json` to make it pretty",
+  "version": "0.2.2",
+  "description": "Pipe your json in the terminal into yap-json to make it pretty",
   "main": "index.js",
   "bin": {
     "yap-json": "./index.js"
