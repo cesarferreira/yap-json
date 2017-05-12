@@ -14,15 +14,15 @@
 ## Usage
 
 ```bash
+curl -s https://api.github.com/users/cesarferreira | yap-json
+```
+
+```bash
 echo '{"foo": "lorem", "bar": "ipsum"}' | yap-json
 ```
 
 ```bash
 cat myfile.json | yap-json
-```
-
-```bash
-curl -s https://api.github.com/users/cesarferreira | yap-json
 ```
 
 ## Installation
