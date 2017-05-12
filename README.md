@@ -3,7 +3,7 @@
 > Pipe your `json` into `yap-json` to make it pretty
 
 <p align="center">
-<img src="extras/pretty.png" width="100%" />
+<img src="https://github.com/cesarferreira/yap-json/raw/master/extras/pretty.png" width="100%" />
 </p>
 
 ## Features
